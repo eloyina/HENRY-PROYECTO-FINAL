@@ -7,3 +7,12 @@ Segunda semana de trabajo: https://www.canva.com/design/DAFKWI5iT-Q/U2i7r4JVAmmt
 
 Tercer semana de trabajo: https://prezi.com/i/edit/o3cqizxcmw-s
 
+Colaboradores del proyecto:
+
+https://github.com/Gabyha
+
+https://github.com/eloyina
+
+https://github.com/diegobarrios224
+
+https://github.com/julimedi
