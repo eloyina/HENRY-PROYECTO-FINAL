@@ -9,15 +9,17 @@ En este repositorio encontrará:
 - machine_learning: carpeta con los códigos de las predicciones.
 - scipts: carpeta con los codigos de adeministración de base de datos y los procesos de ETL.
 
-Video del proceso de automatización: 
+Video del proceso de automatización: https://youtu.be/p-Sq0kU4SfU
 
-Primera semana de trabajo: hhttps://prezi.com/i/xahomacpnryq/pf-henry-sem1/
+Primera semana de trabajo: https://prezi.com/i/xahomacpnryq/pf-henry-sem1/
 
 Segunda semana de trabajo: https://www.canva.com/design/DAFKWI5iT-Q/U2i7r4JVAmmtKLH0FoSEug/edit?utm_content=DAFKWI5iT-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Tercer semana de trabajo: https://prezi.com/i/o3cqizxcmw-s/pf-henry-sem3/
 
 Cuarta semana de trabajo: https://prezi.com/i/5vofge_qoply/pf-henry-sem4/
+
+Link a nuestra página web: https://aqpagenda.com/datascience/index.html
 
 Colaboradores del proyecto:
 
